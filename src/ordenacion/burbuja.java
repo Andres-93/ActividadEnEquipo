@@ -10,6 +10,7 @@ public class burbuja {
 		Scanner sr = new Scanner(System.in);
 		
 		//Comentario de prueba de Navarro
+		//Nuevo comentario de Andres.
 		int[] numeros = new int[10];
 		
 		
