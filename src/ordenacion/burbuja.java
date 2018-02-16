@@ -11,7 +11,7 @@ public class burbuja {
 		
 		//Comentario de prueba de Navarro
 		//Nuevo comentario de Andres.
-		//lolololo
+		//Comentario de prueba de Alfonso
 		int[] numeros = new int[10];
 		
 		
